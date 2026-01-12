@@ -1,3 +1,3 @@
 # snakegame
-juego para entretenersey ya no aburrirse
+juego para entretenerse y ya no aburrirse
 
